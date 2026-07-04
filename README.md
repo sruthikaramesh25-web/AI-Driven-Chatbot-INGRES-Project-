@@ -101,6 +101,37 @@ Installation Steps
 
 
 
-Author
+Front-End technologies:
 
-Sruthika
+~HTML 
+~CSS
+~Javascript 
+
+Back-End technologies:
+
+~Python 
+~Java
+
+Database
+
+~AI
+
+Feature Scope 
+
+
+~User Registration
+
+~User Login and Authentication
+
+~Home Page/Dashboard
+
+~Form Validation
+
+~Search Functionality
+
+~Responsive User Interface
+
+Conclusion
+
+The project was successfully developed using HTML, CSS, and JavaScript. It provides a simple and user-friendly login and registration system with basic authentication and responsive design. The application works efficiently using localStorage for storing user data. This project helped in understanding the fundamentals of front-end web development and can be enhanced in the future by adding a backend server and a database.
+
